@@ -5,3 +5,4 @@ A modular camera system that I've used in some of my games
 - Will require cleaning up and editing for use in other projects
 - Camera only turns horizontally and not vertically
 - Also includes functionality for hue changes through panels
+- Includes functionality for making use of animator attached to sub-parent of camera object
